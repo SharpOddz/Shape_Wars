@@ -1,0 +1,18 @@
+{
+  "version": "87.51",
+  "layout": "single-folder, browser-upload friendly",
+  "game_html": "index.html",
+  "asset_bundle_count": 7,
+  "original_media_files_bundled": 794,
+  "total_upload_files": 10,
+  "largest_file_bytes": 16964540,
+  "asset_sha256": "924afdc895653f9b71feb69cf518ab33ea5fa3ebcc2dd7d1c0714b742ecb01ff",
+  "rewritten_references": {
+    "sw65": 43,
+    "sprites": 628,
+    "sw38": 91,
+    "menu": 1,
+    "audio": 1
+  },
+  "note": "Standalone base64 data URI bundles loaded before the original game scripts. No separate asset files required."
+}
